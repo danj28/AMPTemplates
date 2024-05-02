@@ -10,7 +10,7 @@
         "UpdateStageName":"ServerConfig.txt Download",
         "UpdateSourcePlatform":"Linux",
         "UpdateSource":"FetchURL",
-        "UpdateSourceData":"https://raw.githubusercontent.com/Greelan/AMPTemplates/dev/survive-the-nightsserverconfig.txt",
+        "UpdateSourceData":"https://raw.githubusercontent.com/danj28/AMPTemplates/main/survive-the-nightsserverconfig.txt",
         "UpdateSourceTarget":"{{$FullBaseDir}}Config",
         "UpdateSourceArgs":"ServerConfig.txt",
         "OverwriteExistingFiles":false
