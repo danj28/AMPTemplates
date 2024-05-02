@@ -23,9 +23,9 @@ useUpnp=True
 serverIP=194.207.117.251
 serverPort=7950
 showInPublicLobby=True
-queryPort=0
+queryPort=7951
 WorldName=DedicatedServer
-serverOwner=
+serverOwner=76561197976049292
 //*** Time & Weather ***
 progressTime=true
 dayCycleInMinutes=45
