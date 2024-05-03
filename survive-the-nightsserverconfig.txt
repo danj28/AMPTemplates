@@ -18,7 +18,7 @@
 // *** Connections ***
 ServerName=DJs Server
 serverPassword=
-useSteamRelays=True
+useSteamRelays=False
 UseUpnp=False
 ServerIP=0.0.0.0
 ServerPort=7950
