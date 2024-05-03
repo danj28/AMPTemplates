@@ -16,16 +16,16 @@
 // Lines starting with double // are ignored.
 //
 // *** Connections ***
-ServerName="DJs Server"
+ServerName=DJs Server
 serverPassword=
 useSteamRelays=True
-UseUpnp=True
-ServerIP="0.0.0.0"
+UseUpnp=False
+ServerIP=0.0.0.0
 ServerPort=7950
 showInPublicLobby=False
 QueryPort=7951
-WorldName=Sit Back & Relax | World Settings
-ServerOwner="76561197976049292"
+WorldName=DedicatedServer
+ServerOwner=76561197976049292
 //*** Time & Weather ***
 ProgressTime=True
 dayCycleInMinutes=45
@@ -119,3 +119,16 @@ ChatDistance=1
 NameTagDistance=2
 growRate=3
 WorkshopID=2916512384
+containerLoot=3
+hordeMode=1
+hordeSyncNights=False
+hordeRunnerFrequency=0
+hordeRunnerSpeed=0
+hordeConstantHordesMode=0
+hordeConstantStartDelay=0
+hordeConstantWaitTime=0
+fortificationToolEfficiency=0
+fortificationStartingStrength=2
+useCraftLeveling=True
+forcedSpawnPoint=-1
+resetScenarioAfterSession=False
