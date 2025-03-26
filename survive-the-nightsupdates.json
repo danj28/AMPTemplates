@@ -13,6 +13,6 @@
         "UpdateSourceData":"https://raw.githubusercontent.com/danj28/AMPTemplates/main/survive-the-nightsserverconfig.txt",
         "UpdateSourceTarget":"{{$FullBaseDir}}Config",
         "UpdateSourceArgs":"ServerConfig.txt",
-        "OverwriteExistingFiles":false
+        "OverwriteExistingFiles":true
     }
 ]
